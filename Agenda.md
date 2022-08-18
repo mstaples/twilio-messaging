@@ -25,7 +25,7 @@ What is a message
             - embedded docs
             - customize side-bar to your match your goals
 
-# Two-way Messages
+# Cloud hosted messaging
 - TWIML: https://www.twilio.com/docs/messaging/twiml
     - TWIML bins
 - Functions (Serverless): https://www.twilio.com/code-exchange/basic-sms-auto-response
@@ -37,12 +37,14 @@ What is a message
     - Logs / Messaging
     - Insights
     - custom status tracking
-- Regulations and Guidelines
 - Messaging Services
+    - Sender pool: sticky sender, geomatch, auto-fallback sending
+    - Compliance and best practices
 
 # Complex Interactions (state in the stateless)
 - (Webhook / ngrok)
-- (Foreshadowing the Studio talk)
+- Deep dive: upcoming Studio talk
 - Conversations: https://www.twilio.com/conversations-api
     - Omni-channel
     - Group texting
+- Next level: Segment
