@@ -6,7 +6,7 @@ What is a message
 - SMS: Short Message Service: 160 characters auto-parsed
 - MMS: Media Message Service: media content auto-parsed
 - Shortcode / Longcode
-- WhatsApp
+- WhatsApp, RCS
 
 # Getting started with (stateless) messages
 - Message API
