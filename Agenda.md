@@ -8,9 +8,7 @@ What is a message
 - Shortcode / Longcode
 - WhatsApp
 
-Stateless
-
-# Sending Messages
+# Sending (Stateless) Messages
 - Message API
     - docs: https://www.twilio.com/docs/sms
         - quickstarts by language
@@ -27,10 +25,10 @@ Stateless
 - TWIML: https://www.twilio.com/docs/messaging/twiml
     - TWIML bins
 - Functions (Serverless): https://www.twilio.com/code-exchange/basic-sms-auto-response
-    - generated webhook url: https://hello-messaging-8063-owm5ih.twil.io/hello-messaging
-    - generated asset url: https://hello-messaging-8063-owm5ih.twil.io/index.html
+    - generated webhook url
+    - generated asset url
     - use Assets to host images
-        - use hosted Assets in the CLI: twilio api:core:messages:create [...] imageUrl=https://hello-messaging-8063-owm5ih.twil.io/happy_earth_dog.gif
+        - use hosted Assets in the CLI: twilio api:core:messages:create [...] imageUrl=https://hello-messaging...
 - Monitor
     - Logs / Messaging
     - Insights
