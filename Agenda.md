@@ -8,7 +8,7 @@ What is a message
 - Shortcode / Longcode
 - WhatsApp
 
-# Sending (Stateless) Messages
+# Getting started with (stateless) messages
 - Message API
     - docs: https://www.twilio.com/docs/sms
         - quickstarts by language
@@ -41,7 +41,7 @@ What is a message
     - Sender pool: sticky sender, geomatch, auto-fallback sending
     - Compliance and best practices
 
-# Complex Interactions (state in the stateless)
+# Complex interactions (state in the stateless)
 - (Webhook / ngrok)
 - Deep dive: upcoming Studio talk
 - Conversations: https://www.twilio.com/conversations-api
