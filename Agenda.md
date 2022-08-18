@@ -17,7 +17,7 @@ What is a message
         - api reference Create a Messaging Resource examples by language
             - sid, token => client
             - create(DESTINATION_PHONE, TWILIO_PHONE, Body or MediaUrl)
-        - CLI tool
+        - CLI tool: https://www.twilio.com/docs/twilio-cli/quickstart
             - guided setup / installation
             - twilio api:core:messages:create --to=+$PERSONAL_PHONE_NUMBER --from=+$TWILIO_PHONE_NUMBER --body="Hiya fren" --properties=sid,status
 
