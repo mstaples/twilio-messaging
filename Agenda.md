@@ -18,8 +18,9 @@ What is a message
             - sid, token => client
             - create(DESTINATION_PHONE, TWILIO_PHONE, Body or MediaUrl)
         - CLI tool: https://www.twilio.com/docs/twilio-cli/quickstart
-            - guided setup / installation
-            - twilio api:core:messages:create --to=+$PERSONAL_PHONE_NUMBER --from=+$TWILIO_PHONE_NUMBER --body="Hiya fren" --properties=sid,status
+            - guided setup / installation: twilio login
+            - upgrade your experience: twilio autocomplete bash
+            - explore: twilio
 
 # Two-way Messages
 - TWIML: https://www.twilio.com/docs/messaging/twiml
