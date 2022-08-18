@@ -21,6 +21,9 @@ What is a message
             - guided setup / installation: twilio login
             - upgrade your experience: twilio autocomplete bash
             - explore: twilio
+        - the Console: https://console.twilio.com/
+            - embedded docs
+            - customize side-bar to your match your goals
 
 # Two-way Messages
 - TWIML: https://www.twilio.com/docs/messaging/twiml
