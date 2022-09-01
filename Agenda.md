@@ -57,5 +57,5 @@ What is a message
 - Conversations: https://www.twilio.com/conversations-api
     - Omni-channel
     - Group texting
-- Next level orchistration: Flex https://www.twilio.com/docs/flex
+- Next level orchestration: Flex https://www.twilio.com/docs/flex
 - Next level state tracking: Segment https://www.twilio.com/segment-hello
