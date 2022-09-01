@@ -44,6 +44,7 @@ What is a message
     - Sender pool: sticky sender, geomatch, auto-fallback sending
     - Compliance and best practices
     - Learn more in the advanced Messaging and Level Up sessions
+- Studio... gets stateful!
 
 # Complex interactions (state in the stateless)
 - (Webhook / ngrok)
