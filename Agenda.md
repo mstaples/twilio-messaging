@@ -7,6 +7,8 @@ What is a message
 - MMS: Media Message Service: media content auto-parsed
 - Shortcode / Longcode
 - WhatsApp, RCS
+- Global messaging, regional regulation
+- Stateless
 
 # Getting started with (stateless) messages
 - Message API
