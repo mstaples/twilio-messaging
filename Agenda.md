@@ -24,6 +24,7 @@ What is a message
         - the Console: https://console.twilio.com/
             - embedded docs
             - customize side-bar to your match your goals
+        - Dev Phone: https://www.twilio.com/docs/labs/dev-phone
 
 # Cloud hosted messaging
 - TWIML: https://www.twilio.com/docs/messaging/twiml
@@ -40,6 +41,7 @@ What is a message
 - Messaging Services
     - Sender pool: sticky sender, geomatch, auto-fallback sending
     - Compliance and best practices
+    - Learn more in the advanced Messaging and Level Up sessions
 
 # Complex interactions (state in the stateless)
 - (Webhook / ngrok)
@@ -48,7 +50,7 @@ What is a message
     - Navigating the editor canvas
     - Adding and modifying widgets
     - Using the Flow logs
-    - Level up available
+    - Learn more in the Level Up session
 - Conversations: https://www.twilio.com/conversations-api
     - Omni-channel
     - Group texting
