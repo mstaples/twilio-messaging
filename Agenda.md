@@ -47,6 +47,7 @@ What is a message
     - Getting started resources
     - Navigating the editor canvas
     - Adding and modifying widgets
+    - Using the Flow logs
     - Level up available
 - Conversations: https://www.twilio.com/conversations-api
     - Omni-channel
