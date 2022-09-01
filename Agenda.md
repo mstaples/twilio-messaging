@@ -43,7 +43,11 @@ What is a message
 
 # Complex interactions (state in the stateless)
 - (Webhook / ngrok)
-- Deep dive: upcoming Studio talk
+- Visual orchestration of interactions: Studio
+    - Getting started resources
+    - Navigating the editor canvas
+    - Adding and modifying widgets
+    - Level up available
 - Conversations: https://www.twilio.com/conversations-api
     - Omni-channel
     - Group texting
